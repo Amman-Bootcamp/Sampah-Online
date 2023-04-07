@@ -167,8 +167,8 @@ header{
 
  /*slider gambar*/
 .slider{
-    width: 1920px;
-    height: 1080px;
+    width: 1366px;
+    height: 768px;
     border-radius: 10px;
     overflow: hidden;
 }
@@ -190,15 +190,15 @@ header{
 }
 
 .slide img{
-    width: 1920px;
-    height: 1080px;
+    width: 1366px;
+    height: 768px;
 }
 
 /*slide navigasi manual*/
 .navigation-manual{
     position: absolute;
-    width: 1920px;
-    margin-top: 540px;
+    width: 1366px;
+    margin-top: 250px;
     display: flex;
     justify-content: center;
 }
@@ -237,8 +237,8 @@ header{
 
 /*auto navigasi*/
 .navigation-auto{
-    margin-top: 1040px;
-    width: 1920px;
+    margin-top: 750px;
+    width: 1366px;
     position: absolute;
     display: flex;
     justify-content: center;
